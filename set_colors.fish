@@ -14,9 +14,9 @@ set fish_color_escape 66D9EF # the color used to highlight character escapes lik
 set fish_color_cwd 66D9EF # the color used for the current working directory in the default prompt
 
 # Additionally, the following variables are available to change the highlighting in the completion pager:
-set fish_pager_color_prefix F92672 # the color of the prefix string, i.e. the string that is to be completed
-set fish_pager_color_completion F8F8F2 # the color of the completion itself
-set fish_pager_color_description 75715E # the color of the completion description
+set fish_pager_color_prefix F8F8F2 # the color of the prefix string, i.e. the string that is to be completed
+set fish_pager_color_completion 75715E # the color of the completion itself
+set fish_pager_color_description 49483E # the color of the completion description
 set fish_pager_color_progress F8F8F2 # the color of the progress bar at the bottom left corner
 set fish_pager_color_secondary F8F8F2 # the background color of the every second completion
 
