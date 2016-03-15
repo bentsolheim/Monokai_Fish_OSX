@@ -6,13 +6,10 @@ Get Monokai Theme colors for your OSX Terminal shell using the awesome fish shel
 
 ## Installation
 
-### Import OSX Terminal Color Scheme
-1. Open Terminal.app and select Terminal>Preferences Profiles.
-2. In the Profilelist bottom, click on the wheel icon and choose `Import...`
-3. Select the `Monokai.terminal` file.
-
-### Set Fish Shell Color Scheme
-1. Run `fish set_colors.fish`
+1. Open Terminal.app and select `Terminal / Preferences Profiles.
+2. In the profile list, at the bottom, click on the wheel icon and choose `Import...` and select the `Monokai.terminal` file.
+3. Set the Monokai Color theme to default by selecting it and clicking the Default button.
+4. Set Fish Shell Color Scheme by running the fish script `fish set_colors.fish`
 
 ## Uninstall
 1. Delete OSX Terminal Theme from Profile list by selecting the Monokai Theme and clicking the minus icon.
