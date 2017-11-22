@@ -153,7 +153,7 @@
 	ABkAAAAAAAAAAAAAAAAAAADY
 	</data>
 	<key>CursorType</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -211,7 +211,7 @@
 	<key>columnCount</key>
 	<integer>101</integer>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Monokai_Inconsolata</string>
 	<key>type</key>
 	<string>Window Settings</string>
 	<key>warnOnShellCloseAction</key>
